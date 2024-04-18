@@ -42,16 +42,6 @@ To get started with the Application Dashboard, follow these steps:
 
 7. **Access the Application**: Open your web browser and navigate to `http://localhost:8000` to access the Application Dashboard.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the Application Dashboard project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Create a new Pull Request.
 
 ## License
 
